@@ -8,16 +8,32 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
@@ -35,20 +51,20 @@
   "portfolio": [
     {
       "name": "Pokedex",
-      "url": "#",
+      "url": "https://github.com/KayllaneGPina/Formacao-JavaScript/tree/main/desafios-projetos",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "#",
-      "period": "#",
-      "description": "#"
+      "name": "Estagiária de Desenvolvimento",
+      "period": "01/2022 - 02/2023",
+      "description": "Acompanhar analise técnica; auxiliar no desenvolvimento de demandas em Java e PL Teste Unitário; acompanhar apoio em demandas de banco de dados; auxiliar nas demais atividades da área."
     },
     {
-      "name": "#",
-      "period": "#",
-      "description": "#"
+      "name": "Estagiária",
+      "period": "01/2019 - 01/2020",
+      "description": "Auxiliar em atividades administrativa, auxiliar na digitalização de documentos e auxiliar na entrega de documentos."
     }
   ]
 }
